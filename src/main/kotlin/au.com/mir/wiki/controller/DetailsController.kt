@@ -24,7 +24,5 @@ class DetailsController() {
             response_type = "ephemeral",
             text = "What is this? - this is a wiki"
         )
-
-
     }
 }

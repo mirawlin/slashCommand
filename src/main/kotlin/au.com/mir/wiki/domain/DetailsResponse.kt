@@ -1,6 +1,5 @@
 package au.com.mir.wiki.domain
 
-
 data class ReponseRoot(
     val root: MyRequestPayload?
 )
